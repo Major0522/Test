@@ -1,0 +1,26 @@
+.root {
+	-fx-font-family: "Microsoft YaHei";
+}
+
+.start-msg {
+	-fx-font-size: 18;
+	-fx-text-fill: white;
+}
+.start-name {
+	-fx-font-size: 32;
+	-fx-text-fill: #fbee5b;
+	-fx-font-weight:bold;
+}
+.start-name.label .text {
+    -fx-stroke: #6a4006;
+    -fx-stroke-type:outside;
+    -fx-stroke-width: 2px;
+}
+.award-name-odd {
+	-fx-font-size: 18;
+	-fx-text-fill: #fa9102;
+}
+.award-name-even {
+	-fx-font-size: 18;
+	-fx-text-fill: white;
+}
